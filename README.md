@@ -5,3 +5,5 @@ YBS401-Python ile web geliştirme
 Ödev 1
 
 Son gönderim tarihi 17.10.2021 23:59:59
+
+Ödev kapsamında tek yapmanız gereken, "hello.py" dosyasındaki düzeltmeyi yapıp göndermektir.
