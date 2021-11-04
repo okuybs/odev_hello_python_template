@@ -4,4 +4,4 @@ YBS401-2021-fall-1
 '''
 
 def hello_world():
-    return "Düzeltmeniz gereken metin"
+    return "Merhaba YBS!"
