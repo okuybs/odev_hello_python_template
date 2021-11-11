@@ -1,6 +1,6 @@
 '''
-YBS401-2021-fall-1
-Ödev kapsamında yapmanız gereken tek şey aşağıdaki fonksiyonun çıktısını "Merhaba YBS!" olarak düzeltmenizdir.
+
+Ödev kapsamında yapmanız gereken tek şey aşağıdaki fonksiyonun çıktısını "Merhaba Python" olarak düzeltmenizdir.
 '''
 
 def hello_world():
